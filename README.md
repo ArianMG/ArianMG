@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ArianMG
+- 👀 I’m interested in web development and data science
+- 🌱 I’m currently learning web development and Machine Learning
+- 💞️ I’m looking to collaborate on web development and data science
